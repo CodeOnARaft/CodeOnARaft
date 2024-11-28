@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @CodeOnARaft
-- 👀 I’m interested in various languages
-- 🌱 I’m currently learning latin and rust
+###  Professional bug writer by day, game dev by night
 
-- 📫 How to reach me ...
+
+
