@@ -1,6 +1,4 @@
 ###  Professional bug writer by day, game dev by night
 
-Currently Learning:
-* Zig
-* AWS
+I enjoy tinkering in various languages.
 
